@@ -1,1 +1,1 @@
-print('pivo')
+print()
